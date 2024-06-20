@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>HR Analysis</b>
-  - [Analysing HR Data](#)
+  - [Analysing HR Data](https://github.com/Cisco-data/HR_Project)
 
 <h2>📜 Certificates</h2>
 
