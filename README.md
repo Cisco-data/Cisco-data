@@ -4,6 +4,9 @@
 
 - <b>HR Analysis</b>
   - [Analysing HR Data](https://github.com/Cisco-data/HR_Project)
+ 
+- <b>Crime Intelligence Analysis</b>
+  - [Analysing Crime Data](https://github.com/Cisco-data/Crime-Analysis)
 
 <h2>📜 Certificates</h2>
 
